@@ -1,4 +1,4 @@
-SNakeGame
+# SnakeGame
 *****************************************************************************************
 
 The SnakeGame class is a JavaFX application
@@ -23,4 +23,7 @@ to 6, the speed is set to 10. If the score is equal to 8, the speed is set to 14
 of these values, the method does nothing. The class is used in the SnakeGame class to create an instance of
 the class with a score threshold of 3.
 
+# execution
+![lose](https://github.com/DeemaEssam/BabyNamesRanking/assets/106381596/ed634157-c19d-47e4-b59d-d1d4e3b5b286)
+![win](https://github.com/DeemaEssam/BabyNamesRanking/assets/106381596/de65181e-3908-4948-a9d6-84fc2b2c3437)
 
